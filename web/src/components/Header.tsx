@@ -26,7 +26,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/b2498297-9f53-40f5-8510-871d55621bd1.png" 
+              src="AB logo.png" 
               alt="AB Radio Logo" 
               className="h-10 w-10 rounded-full shadow-sm"
             />
